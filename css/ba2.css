@@ -1,0 +1,252 @@
+body {
+    background-color: #331B5F;
+}
+.aa1 {
+    top: 91px;
+    left: 1463px;
+    position: fixed;
+    font-size: 20px;
+    color: white;
+    transition-duration: 0.5s;
+}
+.aa1:hover {
+    color: greenyellow;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.aa1 {
+    color: white;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+.aa2 {
+    top: 91px;
+    left: 1573px;
+    position: fixed;
+    font-size: 20px;
+    color: white;
+    transition-duration: 0.5s;
+}
+.aa2:hover {
+    color: greenyellow;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.aa2 {
+    color: white;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+.aa3 {
+    top: 91px;
+    left: 1660px;
+    position: fixed;
+    font-size: 20px;
+    color: white;
+    transition-duration: 0.5s;
+}
+.aa3:hover {
+    color: greenyellow;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.aa3 {
+    color: white;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+.aa4 {
+    top: 91px;
+    left: 1768px;
+    position: fixed;
+    font-size: 20px;
+    color: white;
+    transition-duration: 0.5s;
+}
+.aa4:hover {
+    color: greenyellow;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.aa4 {
+    color: white;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+.a7 {
+    left: 1459px;
+    top: 48px;
+    position: fixed;
+    padding: 0px 1px;
+    transition-duration: 0.3s;
+    font-size: 24px;
+    border-radius: 18px;
+    background-color: #0A0C4D;
+    color: white;
+}
+.q2 {
+    top: 44px;
+    left: 1653px;
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    transition-duration: 0.3s;
+    background-color: greenyellow;
+    border-radius: 9px;
+}
+.q2:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.q3 {
+    top: 13px;
+    left: 1707px;
+    position: fixed;
+    width: 107px;
+    height: 103px;
+    transition-duration: 0.3s;
+}
+.aa8 {
+    top: 28px;
+    left: 1801px;
+    position: fixed;
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    transition-duration: 0.3s;
+}
+.aa8:hover {
+    color: greenyellow;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.a9 {
+    left: 99px;
+    top: -17px;
+    position: fixed;
+    font-size: 60px;
+    color: greenyellow;
+}
+.a10 {
+    left: 100px;
+    top: 80px;
+    position: fixed;
+    font-size: 24px;
+    color: greenyellow;
+}
+.q16 {
+    top: 1000px;
+    left: 0px;
+    position: absolute;
+    width: 1903px;
+    height: 410px;
+}
+.a19 {
+    left: 100px;
+    top: 940px;
+    position:absolute;
+    font-size: 100px;
+    color: greenyellow;
+}
+.a20 {
+    left: 100px;
+    top: 1115px;
+    position: absolute;
+    font-size: 34px;
+    color: greenyellow;
+}
+.a21 {
+    left: 516px;
+    top: 1035px;
+    position: absolute;
+    font-size: 26px;
+    color: greenyellow;
+}
+.a22 {
+    left: 516px;
+    top: 1084px;
+    position: absolute;
+    font-size: 40px;
+    color: greenyellow;
+}
+.a23 {
+    left: 516px;
+    top: 1156px;
+    position: absolute;
+    font-size: 40px;
+    color: greenyellow;
+}
+.a24 {
+    left: 516px;
+    top: 1228px;
+    position: absolute;
+    font-size: 40px;
+    color: greenyellow;
+}
+.a25 {
+    left: 936px;
+    top: 1035px;
+    position: absolute;
+    font-size: 26px;
+    color: greenyellow;
+}
+.a26 {
+    left: 950px;
+    top: 1084px;
+    position: absolute;
+    font-size: 40px;
+    color: greenyellow;
+}
+.a27 {
+    left: 950px;
+    top: 1156px;
+    position: absolute;
+    font-size: 40px;
+    color: greenyellow;
+}
+.a28 {
+    left: 950px;
+    top: 1228px;
+    position: absolute;
+    font-size: 40px;
+    color: greenyellow;
+}
+.q26 {
+    top: 1042px;
+    left: 1399px;
+    position: absolute;
+    width: 242px;
+    height: 336px;
+}
+.q27 {
+    top: 1043px;
+    left: 1475px;
+    position: absolute;
+    width: 330px;
+    height: 323px;
+    filter: brightness(60%);
+}
+.q1 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    width: 1903px;
+    height: 1406px;
+    filter: brightness(30%);
+}
+.a11 {
+    left: 116px;
+    top: 344px;
+    position: absolute;
+    font-size: 22px;
+    color: greenyellow;
+    text-align: left;
+}
+.q10 {
+    top: 104px;
+    left: 1195px;
+    position: absolute;
+    width: 659px;
+    height: 705px;
+
+}

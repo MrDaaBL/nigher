@@ -1,0 +1,63 @@
+body {
+    background-image: url(img/w31.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.cont {
+    max-width: 400px;margin: 300px auto;padding: 20px;color: white;background-color: #333;border-radius: 5px;box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+.form {
+.text
+     text-align: center;
+}
+h1 {margin-bottom: 20px;color: #333;
+}
+label {
+    display: block;margin: 10px 0;font-weight: bold;color: white;
+}
+input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.text1 {
+    margin-top: 4px;
+}
+.textt {
+    color: greenyellow;
+    transition-duration: 0.3s;
+}
+.textt:hover {
+    color: rgba(96, 238, 13);
+}
+button {
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+    background-color: greenyellow;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover {
+    background-color: rgba(96, 238, 13);
+}
+.textt7 {
+    text-decoration: underline;
+    color: #76b900;
+    transition-duration: 0.3s;
+}
+.textt7:hover {
+    color: rgba(96, 238, 13);
+}
+
+.q1 {
+    top: 309px;
+    left: 757px;
+    position: absolute;
+    width: 19px;
+    height: 22px;
+}
